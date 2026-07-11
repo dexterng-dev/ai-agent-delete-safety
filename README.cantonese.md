@@ -1,6 +1,6 @@
 [English](README.md) · [繁體中文](README.zh-hant.md) · **Cantonese**
 
-# 唔好俾你個 AI 累鬼刪咗你啲檔案
+# 唔好俾你個 AI 累 刪咗你啲檔案
 
 ### 俾 AI 用緊 terminal 嘅人，一個用 hook 做嘅安全網
 
@@ -186,3 +186,5 @@ Write-Host "Moved to $Dest (recoverable)."
 ## 授權（License）
 
 CC BY 4.0——隨便share同改都得，記得credit返 Dexter Ng 就得。詳情睇 [LICENSE](LICENSE)。
+
+有問題、想指正，或者見到錯處？歡迎開 Issue 或者 PR——但唔保證幾時得閒睇。
