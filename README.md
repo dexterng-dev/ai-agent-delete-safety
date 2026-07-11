@@ -186,3 +186,5 @@ The exact hook API is Claude Code's, but the principle transfers to any agent fr
 ## License
 
 CC BY 4.0 — share and adapt freely, just credit Dexter Ng. See [LICENSE](LICENSE).
+
+Questions, corrections, or spotted an issue? Open an Issue or PR — no promises on turnaround.
