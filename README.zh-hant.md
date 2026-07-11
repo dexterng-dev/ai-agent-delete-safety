@@ -186,3 +186,5 @@ Write-Host "Moved to $Dest (recoverable)."
 ## 授權條款（License）
 
 CC BY 4.0——歡迎自由分享及改編，只需註明作者 Dexter Ng。詳見 [LICENSE](LICENSE)。
+
+如有疑問、指正，或發現錯誤，歡迎開 Issue 或提交 PR——恕不保證回覆時間。
